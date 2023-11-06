@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+https://img.shields.io/badge/vika_text-you_like-purpul
+
 <!--
 **viktoriia-koltunova/Viktoriia-Koltunova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
